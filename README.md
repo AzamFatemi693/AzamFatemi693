@@ -22,3 +22,10 @@ I also undertook segmentation responsibilities, considering various customer par
 
 In May 2022, I relocated to the Netherlands with my husband. Therfore, I decieded to enhance my technical skills to gain a deeper understanding of data analysis and acquiring valuable certifications. 
 In January 2023, I embarked on a transformative journey by enrolling in the MasterSchool Bootcamp, where I immersed myself in a comprehensive curriculum focused on data analysis. Over the course, I successfully completed three projects showcasing my proficiency in utilizing a diverse range of tools and technologies. Leveraging Python with libraries such as pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Requests, and Beautiful Soup, I adeptly navigated complex datasets. Additionally, I demonstrated my skills in SQL queries, Excel, and pivot tables for data manipulation and analysis. For impactful visualizations, I harnessed the power of Tableau and Power BI tools, completing three projects
+
+
+# Power BI
+
+In addition to providing a link to my GitHub repository showcasing various projects, I am also including a Power BI link to showcase multiple dashboards within the Power BI environment. This additional link pertains to a Data Analytics Project specifically conducted for Wisabi Bank, a prominent financial institution based in Nigeria. Wisabi Bank's headquarters is situated in Lagos, with branches in Kano, Rivers State, Enugu, and FCT Abuja. Renowned for offering a comprehensive suite of financial services such as savings accounts, current accounts, loans, and investments, Wisabi Bank has enlisted my expertise as an external consultant. The objective of this engagement is to perform a thorough analysis of the bank's ATM transactions data, aligning with Wisabi Bank's commitment to enhancing customer experience and streamlining operational efficiency.
+
+https://app.powerbi.com/view?r=eyJrIjoiMmEwYmQzYTAtYjgzNC00YTFiLWE0OWUtM2Y1MDcwNTg1NWY5IiwidCI6ImI3ODYzMzhkLTI1NzktNDZlZi05OTMwLTEyZTBjODM0MmJhNCIsImMiOjl9
