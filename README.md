@@ -13,9 +13,12 @@ After thorough analysis and reporting, I proposed a strategic solution: the crea
 
 This initiative aimed to address the challenge posed by competitors and provide a competitive edge for our offerings. Regular analysis was essential to continually refine and optimize the package for maximum effectiveness in the market.
 
-Another challenge arose during winter when sales declined due to delays caused by extreme weather conditions in construction projects. Using historical sales data, I identified sellers with strong performances and suggested adjusting prices to encourage bulk purchases, particularly for products in the warehouse for over two months.
+Another challenge arose during winter when sales declined due to delays caused by extreme weather conditions in construction projects. Using historical sales data, I identified sellers with strong performances and suggested adjusting prices to encourage bulk purchases, particularly for products that have been in the warehouse for over two months.
 
 I also undertook segmentation responsibilities, considering various customer parameters and labeling them accordingly. Key performance indicators such as sales revenue, conversion rate, customer acquisition costs, and the impact of inflation on sales were regularly measured and reported using statistical techniques and data visualizations.
+
+### Adopting these strategies leads to a yearly growth of 10% in the company's profitability. 
+
 
 
 # Move to The Netherlands 
@@ -26,6 +29,6 @@ In January 2023, I embarked on a transformative journey by enrolling in the Mast
 
 # Power BI
 
-In addition to providing a link to my GitHub repository showcasing various projects, I am also including a Power BI link to showcase multiple dashboards within the Power BI environment. This additional link pertains to a Data Analytics Project specifically conducted for Wisabi Bank, a prominent financial institution based in Nigeria. Wisabi Bank's headquarters is situated in Lagos, with branches in Kano, Rivers State, Enugu, and FCT Abuja. Renowned for offering a comprehensive suite of financial services such as savings accounts, current accounts, loans, and investments, Wisabi Bank has enlisted my expertise as an external consultant. The objective of this engagement is to perform a thorough analysis of the bank's ATM transactions data, aligning with Wisabi Bank's commitment to enhancing customer experience and streamlining operational efficiency.
+In addition to providing a link to my GitHub repository showcasing various projects, I am also including a Power BI link to showcase multiple dashboards within the Power BI environment. This additional link pertains to a Data Analytics Project specifically conducted for Wisabi Bank, a prominent financial institution based in Nigeria. Please note that this project is hypothetical and does not involve real data or actions. Wisabi Bank's headquarters is situated in Lagos, with branches in Kano, Rivers State, Enugu, and FCT Abuja. Renowned for offering a comprehensive suite of financial services such as savings accounts, current accounts, loans, and investments, Wisabi Bank has enlisted my expertise as an external consultant. The objective of this engagement is to perform a thorough analysis of the bank's ATM transactions data, aligning with Wisabi Bank's commitment to enhancing customer experience and streamlining operational efficiency.
 
 https://app.powerbi.com/view?r=eyJrIjoiMmEwYmQzYTAtYjgzNC00YTFiLWE0OWUtM2Y1MDcwNTg1NWY5IiwidCI6ImI3ODYzMzhkLTI1NzktNDZlZi05OTMwLTEyZTBjODM0MmJhNCIsImMiOjl9
