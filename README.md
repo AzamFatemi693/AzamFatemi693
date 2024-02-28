@@ -32,3 +32,7 @@ In January 2023, I embarked on a transformative journey by enrolling in the Mast
 In addition to providing a link to my GitHub repository showcasing various projects, I am also including a Power BI link to showcase multiple dashboards within the Power BI environment. This additional link pertains to a Data Analytics Project specifically conducted for Wisabi Bank, a prominent financial institution based in Nigeria. Please note that this project is hypothetical and does not involve real data or actions. Wisabi Bank's headquarters is situated in Lagos, with branches in Kano, Rivers State, Enugu, and FCT Abuja. Renowned for offering a comprehensive suite of financial services such as savings accounts, current accounts, loans, and investments, Wisabi Bank has enlisted my expertise as an external consultant. The objective of this engagement is to perform a thorough analysis of the bank's ATM transactions data, aligning with Wisabi Bank's commitment to enhancing customer experience and streamlining operational efficiency.
 
 https://app.powerbi.com/view?r=eyJrIjoiMmEwYmQzYTAtYjgzNC00YTFiLWE0OWUtM2Y1MDcwNTg1NWY5IiwidCI6ImI3ODYzMzhkLTI1NzktNDZlZi05OTMwLTEyZTBjODM0MmJhNCIsImMiOjl9
+
+
+This dashboard pertains to sales analytics, providing comprehensive insights into key performance indicators and trends within the sales domain.
+https://app.powerbi.com/view?r=eyJrIjoiYjE2Yzk2ZjItODk4OC00MmMzLWJjNGQtNmNhZDQ3MGFjNmJjIiwidCI6ImI3ODYzMzhkLTI1NzktNDZlZi05OTMwLTEyZTBjODM0MmJhNCIsImMiOjl9
